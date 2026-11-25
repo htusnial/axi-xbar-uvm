@@ -1,0 +1,12 @@
+.bender/
+sim/build/
+csrc/
+*.daidir/
+simv*
+*.vdb
+*.log
+ucli.key
+vc_hdrs.h
+DVEfiles/
+*.vpd
+*.fsdb
